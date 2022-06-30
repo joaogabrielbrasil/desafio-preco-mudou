@@ -1,0 +1,32 @@
+p {
+    font-weight: bold;
+    font-size: 19px;
+}
+
+.centralizar {
+    margin: 320px;
+    margin-left: 460px;
+}
+
+span {
+    background-color: green;
+    border-radius: 7px;
+}
+
+span:hover {
+    background-color: greenyellow;
+    transition-duration: 3s;         
+}
+
+#msg1, #msg2, #msg3, #msg4, #msg5 {
+    background-color: green;
+    border-radius: 7px;
+}
+
+#msg1:hover, #msg2:hover, #msg3:hover, #msg4:hover, #msg5:hover {
+    background-color: greenyellow;
+    transition-duration: 3s;   
+}
+
+
+
